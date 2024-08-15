@@ -1,1 +1,15 @@
-temp
+{
+  "response": [
+    {
+        "maintainer": "komii000",
+        "oem": "Redmi",
+        "device": "Redmi Note 11",
+        "filename": "voltage-3.6-spes-20240814-1620-UNOFFICIAL.zip",
+        "download": "https://pixeldrain.com/api/file/3SySLD9z?download",
+        "timestamp": 1723627207,
+        "md5": "notnow",
+        "size": 1364430831,
+        "version": "3.6"
+    }
+  ]
+}
