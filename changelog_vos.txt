@@ -1,11 +1,12 @@
-==17/08/2024==3.6_hotfix==
-
+VoltageOS 3.6 Hotfix
+Build 16/08/2024
 - Fix ViperFX not working
 - Enable SDCardFS in default kernel
 
-==16/08/2024==3.6==
-
-using Uvite kernel by default
+VoltageOS 3.6
+Build Date 16/08/2024
+- using Uvite kernel by default
+- Add OTA 
 - Synced with latest source
 - Switch back to SDCardFS 
 - Building missing libs
@@ -18,7 +19,8 @@ using Uvite kernel by default
 - HBM and DC improve
 - import some stuff to sepolicy
 
-==25/07/2024==3.5==
+VoltageOS 3.5
+Build Date 25/07/2024
 
 - Synced with latest VoltageOS source
 - Rework thermal
@@ -31,8 +33,8 @@ using Uvite kernel by default
 - Force enable IMS
 - nuke OMX codecs and using C2 codecs
 
-==15/05/2024==3.4==
-
+VoltageOS 3.4
+Build Date 15/05/2024
 - Add new LMK tweak for better multitask and ram
 - Add WiFi channel bonding for 2.4Ghz
 - Enable AOSP surfaceflinger and switch to vulkan render
