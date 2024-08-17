@@ -1,5 +1,5 @@
 VoltageOS 3.6 Hotfix
-Build 16/08/2024
+Build Date 16/08/2024
 - Fix ViperFX not working
 - Enable SDCardFS in default kernel
 
