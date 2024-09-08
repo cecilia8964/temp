@@ -4,12 +4,12 @@
         "maintainer": "komii000",
         "oem": "Redmi",
         "device": "Redmi Note 11",
-        "filename": "voltage-3.6-spes-20240816-1337-UNOFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/komiibuild/files/spes/voltageos/voltage-3.6-spes-20240816-1337-UNOFFICIAL.zip/download",
-        "timestamp": 1723815338,
-        "md5": "cd94574a8de21d04d6ceece1c764190b",
-        "size": 1364425901,
-        "version": "3.6"
+        "filename": "voltage-3.7-EOL-spes-20240907-1917-UNOFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/komiibuild/files/spes/voltageos/voltage-3.7-EOL-spes-20240907-1917-UNOFFICIAL.zip/download",
+        "timestamp": 1720527420,
+        "md5": "5db0acd5f534f3650ab7b94f0fc9be10",
+        "size": 1400988344,
+        "version": "3.7-EOL"
     }
   ]
 }
