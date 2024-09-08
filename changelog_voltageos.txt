@@ -1,11 +1,11 @@
 VoltageOS 3.7-EOL
-Build Date 09/08/2024
+Build Date 08/09/2024
 - Switch to JamesDSP
 - Remove OTA update to ready for Android 15 update
 - Fix thumbnail video issues
 - Update blobs to miui_SPESNEEAGlobal_V14.0.7.0.TGKEUXM
 - Building some missing libs
-- bla bla 
+- Reduce to 65% Zram
 
 VoltageOS 3.6 Hotfix
 Build Date 16/08/2024
