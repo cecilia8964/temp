@@ -5,7 +5,6 @@ Build Date 09/08/2024
 - Fix thumbnail video issues
 - Update blobs to miui_SPESNEEAGlobal_V14.0.7.0.TGKEUXM
 - Building some missing libs
-- Switch to Murali kernel at default
 - bla bla 
 
 VoltageOS 3.6 Hotfix
